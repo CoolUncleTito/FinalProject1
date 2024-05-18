@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "quarto5"
+  navbar:
+    left:
+      - href: Abstract.qmd
+        text: Abstract
+      - href: Introduction.qmd
+        text: Introduction
+      - href: Methods.qmd
+        text: Methods
+      - href: Results.qmd
+        text: Results
+      - href: Discussion/Conclusion.qmd
+        text: Discussion/Conclusion  
+
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+    toc: true
+
+editor: visual
+
