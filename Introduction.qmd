@@ -2,7 +2,7 @@
 title: "Introduction"
 ---
 
-# Introduction and Background  
+# Introduction and Background 
 
 ![Landscape of Santa Rita Experimental Range](images/landscape%20SRER.png)
 
