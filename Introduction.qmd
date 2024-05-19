@@ -2,8 +2,7 @@
 title: "Introduction"
 ---
 
-
-# Introduction and Background  
+# Introduction and Background
 
 ![Landscape of Santa Rita Experimental Range](images/landscape%20SRER.png)
 
@@ -11,7 +10,9 @@ title: "Introduction"
 
 ### Sayre (2003) identified four distinct research focus periods spanning the first half of the twenty-first century. Institutional Consolidation, Revegetation, and Carrying Capacity, 1901–1931; with a focus on estimating forage production to determine livestock carrying capacity estimates and reestablishing forage plants after periods of heavy animal grazing pressure that occurred prior to 1900. Growth and the Shrub Problem, published in 1932–1945, focused mostly on recording increases in shrub species such as velvet mesquite and burroweed, as well as decreases in the quantity of fodder grass. Age of Mesquite, 1946–1965; focused on velvet mesquite life cycle, control techniques, and ecological reactions to mesquite reduction. Ecology of the Santa Rita Grazing System, 1966–1988; research exploring the effects of grazing systems (seasonal rotations and rest) on vegetation; with a focus on fundamental ecosystem and species biology and ecology.
 
-## Focus of this Project: Microbial Composition
+![Santa Rita Experimental Range, 1902](images/1902%20SRER.png) ![Researchers at Study Area 130](images/130.png)
+
+# Focus of this Project: Microbial Composition
 
 ### Archaea are prokaryotic microorganisms belonging to a distinct branch of life separate from Bacteria and Eukarya. They were identified as a cohesive group in 1977 through comparisons of small ribosomal RNA (rRNA) sequences. Archaea have been found in various environments using molecular techniques, with many thriving in extreme conditions like high salinity, acidity, alkalinity, heat, cold, or anaerobic environments. While some Archaea have been found in the gastrointestinal tract of mammals, none have been identified as causing diseases. They exhibit diverse metabolic capabilities, including chemoautotrophy, heterotrophy, and phototrophy. The Santa Rita Experimental Range (SRER), in D14 (Desert Southwest), is located in the foothills of the Santa Rita Mountains, south of Tucson, Arizona. It is the oldest continuously operating range land research facility in the United States. It was managed by the USDA from 1903 until 1988, when control was handed over to the University of Arizona. It is now used by the University of Arizona College of Agriculture and Life Sciences and the School of Natural Resources as an experimental laboratory to study desert ecology, climate change, hydro logic processes, range management, and wildfire.
 
