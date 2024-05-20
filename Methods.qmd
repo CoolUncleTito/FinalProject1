@@ -1,0 +1,9 @@
+---
+title: "Methods"
+---
+
+# Methods
+
+### Three soil cores (to maximum 30 cm depth) are collected at pre-determined locations within select Distributed Base Plots (n = 6) and Tower Base Plots (n = 4) at SRER. Soil microbes, pH, and moisture are measured during all soil sampling bouts, while biogeochemical measurements, microbial biomass, and N-transformation rates are measured once every 5 years Soil samples at SRER are collected during the transition from dry season to wet season, during summer peak biomass, and during the transition from wet season to dry season.
+
+![Technician Sampling Soil](images/sampling%20soil.png)

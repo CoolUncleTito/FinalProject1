@@ -10,7 +10,8 @@ title: "Introduction"
 
 ### Sayre (2003) identified four distinct research focus periods spanning the first half of the twenty-first century. Institutional Consolidation, Revegetation, and Carrying Capacity, 1901–1931; with a focus on estimating forage production to determine livestock carrying capacity estimates and reestablishing forage plants after periods of heavy animal grazing pressure that occurred prior to 1900. Growth and the Shrub Problem, published in 1932–1945, focused mostly on recording increases in shrub species such as velvet mesquite and burroweed, as well as decreases in the quantity of fodder grass. Age of Mesquite, 1946–1965; focused on velvet mesquite life cycle, control techniques, and ecological reactions to mesquite reduction. Ecology of the Santa Rita Grazing System, 1966–1988; research exploring the effects of grazing systems (seasonal rotations and rest) on vegetation; with a focus on fundamental ecosystem and species biology and ecology.
 
-![Santa Rita Experimental Range, 1902](images/1902%20SRER.png) ![Researchers at Study Area 130](images/130.png)
+![Santa Rita Experimental Range, 1902]
+(images/1902%20SRER.png) ![Researchers at Study Area 130](images/130.png)
 
 # Focus of this Project: Microbial Composition
 
